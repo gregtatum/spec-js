@@ -34,7 +34,7 @@
       ".+\\.css$": "<rootDir>/src/styleMock.ts"
     },
     "roots": [
-      "src/test"
+      "src"
     ],
     "globalSetup": "./src/test/setup.ts",
     "globalTeardown": "./src/test/teardown.ts",
